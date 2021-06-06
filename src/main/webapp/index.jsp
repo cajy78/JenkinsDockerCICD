@@ -10,6 +10,7 @@
 <h4>Added H4 again as part of Git Poll SCM Test</h4>
 <p>Adding this paragraph for further tests</p>
 <p>Another Updated prograam added for further tests</p>
-<a href="pagetwo.html">Click here to navigate to Page 2</a>
+<a href="./pagetwo.html">Click here to navigate to Page 2</a><br>
+<a href="./pagethree.jsp">Click here to navigate to Page 3</a>
 </body>
 </html>
