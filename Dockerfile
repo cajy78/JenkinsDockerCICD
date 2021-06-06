@@ -23,4 +23,5 @@ RUN apt update
 RUN apt install -y ufw
 RUN ufw allow 8080/tcp
 COPY ./target/testWebApp.war /opt/tomcat/latest/webapps
+COPY ./target/testWebApp /opt/tomcat/latest/webapps
 Expose 8080 443
